@@ -1,7 +1,7 @@
 Hi there, I'm c4605 :)
 
 * I'm currently a front-end engineer
-* I’m currently learning Rust
+* I'm currently learning Rust
 * I know a little ClojureScript, Bash, Python, Ruby, MySQL, Ansible, and a little iOS development knowledge :P
 * I like Emacs([My emacs config](https://github.com/bolasblack/.emacsrc)) and Nix([My nix config](https://github.com/bolasblack/dotfiles/tree/master/nix) and [overlay](https://github.com/bolasblack/nix-overlay))
 
