@@ -11,7 +11,7 @@ I'm not an interesting person, but there may be something you are interested in:
   * [http-api-guide](https://github.com/bolasblack/http-api-guide): A HTTP API design references written in chinese.
   * [git-hook-pure](https://github.com/bolasblack/git-hook-pure): A simple [husky](https://github.com/typicode/husky) replacement written in Shell (so it can be faster in some case).
   * [@c4/g](https://github.com/bolasblack/c4g): Some schematics (A generic scaffolding library for the modern web. A part of [angular-cli](https://github.com/angular/angular-cli/)) I wrote.
-* [github:bolasblack/react-components]: Some react helper
+* [github:bolasblack/react-components](https://github.com/bolasblack/react-components): Some react helper
   * [@c4605/react-document-element](https://github.com/bolasblack/react-components/blob/master/packages/DocumentElement/README.mdx): Provides a declarative way to specify `document.documentElement` attributes in a single-page app.
   * [@c4605/react-modal](https://github.com/bolasblack/react-components/blob/master/packages/packages/Modal/README.mdx): A simple modal component. Provide react hook `useModal`.
   * [@c4/use-async](https://github.com/bolasblack/react-components/tree/develop/packages/useAsync): A typesafe async function helper hook.
