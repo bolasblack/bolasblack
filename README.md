@@ -5,6 +5,8 @@ Hi there, I'm c4605 :)
 * I know a little ClojureScript, Bash, Python, Ruby, MySQL, Ansible, and a little iOS development knowledge :P
 * I'm using Emacs([My emacs config](https://github.com/bolasblack/.emacsrc)) and Nix([My nix config](https://github.com/bolasblack/dotfiles/tree/master/nix) and [overlay](https://github.com/bolasblack/nix-overlay))
 
+![bolasblack's github stats](https://github-readme-stats.vercel.app/api?username=bolasblack&show_icons=true)
+
 I'm not an interesting person, but there may be something you are interested in:
 
 * Misc
