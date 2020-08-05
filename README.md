@@ -11,6 +11,7 @@ I'm not an interesting person, but there may be something you are interested in:
 
 * Misc
   * [http-api-guide](https://github.com/bolasblack/http-api-guide): A HTTP API design references written in chinese.
+  * [yarw](https://github.com/bolasblack/js-metarepo/tree/develop/packages/yarw): A typesafe, effective redux wrapper.
   * [git-hook-pure](https://github.com/bolasblack/git-hook-pure): A simple [husky](https://github.com/typicode/husky) replacement written in Shell (so it can be faster in some case).
   * [@c4/g](https://github.com/bolasblack/c4g): Some schematics (A generic scaffolding library for the modern web. A part of [angular-cli](https://github.com/angular/angular-cli/)) I wrote.
 * [github:bolasblack/react-components](https://github.com/bolasblack/react-components): Some react helper
