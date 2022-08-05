@@ -7,7 +7,7 @@ Hi there, I'm c4605 :)
 
 ![bolasblack's github stats](https://github-readme-stats.vercel.app/api?username=bolasblack&show_icons=true)
 
-I'm not an interesting person, but there may be something you are interested in:
+There may be something you are interested in:
 
 * Misc
   * [http-api-guide](https://github.com/bolasblack/http-api-guide): A HTTP API design references written in chinese.
