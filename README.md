@@ -16,7 +16,7 @@ Hi there, I'm c4605 :)
 A comprehensive HTTP API design guide written in Chinese. Covers RESTful principles, error handling, versioning strategies, and best practices for building maintainable APIs.
 
 ### [effect-saga](https://github.com/bolasblack/effect-saga)
-A [Redux-Saga](https://redux-saga.js.org/) implementation using the [Effect](https://effect.website/) library. Combines redux-saga's elegant patterns with Effect's type-safe error tracking, dependency injection, and functional programming primitives.
+A demonstration of [Effect](https://effect.website/)'s powerful capabilities by reimplementing [Redux-Saga](https://redux-saga.js.org/)'s core patterns with remarkably simple code. Shows how Effect's built-in primitives (Fiber, Queue, Deferred) make complex async orchestration effortless—what takes redux-saga hundreds of lines becomes concise and type-safe with Effect's functional programming foundation.
 
 ### [btc-utils](https://github.com/bolasblack/btc-utils)
 Bitcoin transaction utilities for TypeScript. Provides zero-dependency helpers for estimating transaction vSize before signing and calculating dust thresholds. Designed to be easy to read and understand with clear documentation links.
@@ -25,7 +25,7 @@ Bitcoin transaction utilities for TypeScript. Provides zero-dependency helpers f
 A Ruby interpreter for AIML (Artificial Intelligence Markup Language), originally forked but extensively rewritten. AIML is an XML-based language for creating chatbots and conversational AI agents, making it an interesting exploration of early chatbot technologies.
 
 ### [@c4/use-effect-reducer](https://github.com/bolasblack/react-components/tree/develop/packages/useEffectReducer)
-A React hook that brings Elm's elegant TEA pattern to React. Reducers return `[nextState, effect]` instead of just state, making side effects declarative and event-driven rather than state-driven. This eliminates `useEffect` dependency tracking entirely—effects are explicitly tied to actions, not derived from watching state changes. The result is pure, testable reducer logic with effects as first-class values.
+A showcase of [Elm](https://elm-lang.org/) architecture's elegance in handling complex interactions. By adopting Elm's [TEA (The Elm Architecture)](https://guide.elm-lang.org/architecture/) pattern where reducers return `[nextState, effect]`, this hook demonstrates how naturally difficult state machines and async flows become when effects are event-driven rather than state-driven. Eliminates `useEffect` dependency tracking entirely—complex UI interactions that typically require careful effect orchestration become simple, declarative action-effect pairs.
 
 ## State Management & Data Flow
 
