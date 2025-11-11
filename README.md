@@ -24,6 +24,9 @@ Bitcoin transaction utilities for TypeScript. Provides zero-dependency helpers f
 ### [programr](https://github.com/bolasblack/programr)
 A Ruby interpreter for AIML (Artificial Intelligence Markup Language), originally forked but extensively rewritten. AIML is an XML-based language for creating chatbots and conversational AI agents, making it an interesting exploration of early chatbot technologies.
 
+### [@c4/use-effect-reducer](https://github.com/bolasblack/react-components/tree/develop/packages/useEffectReducer)
+A React hook that brings Elm's elegant TEA pattern to React. Reducers return `[nextState, effect]` instead of just state, making side effects declarative and event-driven rather than state-driven. This eliminates `useEffect` dependency tracking entirely—effects are explicitly tied to actions, not derived from watching state changes. The result is pure, testable reducer logic with effects as first-class values.
+
 ## State Management & Data Flow
 
 * [yarw](https://github.com/bolasblack/js-metarepo/tree/develop/packages/yarw): A typesafe, effective Redux wrapper that simplifies Redux boilerplate while maintaining type safety.
