@@ -6,8 +6,8 @@ Hi there, I'm c4605 :)
 * I'm using Emacs ([My emacs config](https://github.com/bolasblack/.emacsrc)) and Nix (my [nix config](https://github.com/bolasblack/dotfiles/tree/master/nix) and my [nix overlay](https://github.com/bolasblack/nix-overlay))
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bolasblack" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bolasblack&layout=compact&langs_count=10&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-phi-three-27.vercel.app/api?username=bolasblack" />
+  <img height=200 align="center" src="https://github-readme-stats-phi-three-27.vercel.app/api/top-langs?username=bolasblack&layout=compact&langs_count=10&card_width=320" />
 </p>
 
 ## Interesting projects
