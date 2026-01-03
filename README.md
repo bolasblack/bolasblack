@@ -27,6 +27,10 @@ A Ruby interpreter for AIML (Artificial Intelligence Markup Language), originall
 ### [@c4/use-effect-reducer](https://github.com/bolasblack/react-components/tree/develop/packages/useEffectReducer)
 A showcase of [Elm](https://elm-lang.org/) architecture's elegance in handling complex interactions. By adopting Elm's [TEA (The Elm Architecture)](https://guide.elm-lang.org/architecture/) pattern where reducers return `[nextState, effect]`, this hook demonstrates how naturally difficult state machines and async flows become when effects are event-driven rather than state-driven. Eliminates `useEffect` dependency tracking entirely—complex UI interactions that typically require careful effect orchestration become simple, declarative action-effect pairs.
 
+## Blockchain
+
+* [bitcoin-wallet-connector](https://github.com/bolasblack/bitcoin-wallet-connector): A unified interface for interacting with multiple Bitcoin wallet browser extensions (Unisat, Xverse, OKX, Leather, Bitget, Magic Eden). Features security-first architecture and restrained API design.
+
 ## State Management & Data Flow
 
 * [yarw](https://github.com/bolasblack/js-metarepo/tree/develop/packages/yarw): A typesafe, effective Redux wrapper that simplifies Redux boilerplate while maintaining type safety.
@@ -38,9 +42,9 @@ A showcase of [Elm](https://elm-lang.org/) architecture's elegance in handling c
 
 ## Build Tools & Developer Experience
 
-* [babel-plugin-jsx-wrapper](https://github.com/bolasblack/babel-plugin-jsx-wrapper): Enhanced Babel plugin that automatically wraps JSX components with observer decorators (MobX, Realar, etc.). Adds ES module support, custom decorators, displayName, and React.memo integration - significantly reduces boilerplate code.
 * [git-hook-pure](https://github.com/bolasblack/git-hook-pure): A lightweight [husky](https://github.com/typicode/husky) alternative written in pure Shell for faster git hook management.
 * [@c4/g](https://github.com/bolasblack/c4g): Custom schematics (code generators) built on Angular CLI's scaffolding system for rapid project setup.
+* [babel-plugin-jsx-wrapper](https://github.com/bolasblack/babel-plugin-jsx-wrapper): Enhanced Babel plugin that automatically wraps JSX components with observer decorators (MobX, Realar, etc.). Adds ES module support, custom decorators, displayName, and React.memo integration - significantly reduces boilerplate code.
 * [module-mapper-webpack-plugin](https://github.com/bolasblack/module-mapper-webpack-plugin): Dynamically replace module paths at build time for flexible dependency management.
 * [interpolate-webpack-plugin](https://github.com/bolasblack/interpolate-webpack-plugin): Inject predefined variables into your built assets for environment-specific configurations.
 
